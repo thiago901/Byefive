@@ -24,5 +24,7 @@
   - Teste Unitatios (jest)
   - Express
   - Mongo com Mongoose
+  - Eslint e Prettier
+  
 
 
